@@ -1,0 +1,4 @@
+### `requirements.txt`
+```text
+# Standard library only. 
+# TODO: Add pandas for advanced dataframe-based aggregation comparison.
